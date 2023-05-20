@@ -9,6 +9,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ENTRE AS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf2dae9ae4a5bb7a86a6cf3a42ed0f842f0795f2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pdSti5Q9fYjTyonfUViE3liPTv2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma investigadora particular tenta resolver o assassinato do seu tio, enquanto mantém em segredo o fato dela ser de uma família de lobisomens. Ela se envolve com uma vampira (Lindsay Lohan), que é casada com um lobisomem que tenta se eleger presidente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RASTROS DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bb2e48d8fa63d991286e86457181293af80289e5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yHwi0rNp3tCJp4Nd30fed8k6vC.jpg</thumbnail>
