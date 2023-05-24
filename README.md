@@ -1,5 +1,14 @@
 # CRIME-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] VINGANÇA EM DOBRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceaf07b08352428b3213d359ee80b0577ef7aacb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e2p9E20sU6uBldcZto7CYS6PzJe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mike Markovich, um jovem corretor da bolsa de uma empresa de Wall Street controlada pela Máfia, é traído e preso por seis anos. Quando ele é solto, sua busca mortal por vingança começa.</info>
+</item> 
+
 <item>
 <title>[COLOR silver][B] CHAMAS DA FÚRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc6f8e838f8db0f167c4b2f3d594dc4214906fd5</link>
