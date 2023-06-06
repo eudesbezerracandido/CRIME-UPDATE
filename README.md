@@ -1,6 +1,16 @@
 # CRIME-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] HAIR-TRIGGER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19DAD03E60B65E66275610204567D2CEF745129C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xrQhWZcCJFSAWsaBpAY5VrQryZX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem é recrutada para se juntar a um grupo de criminosos novatos em uma tentativa de roubar uma joalheria. No entanto, após uma mudança repentina de planos, ela e o resto do grupo se encontram escondidos no meio do nada. Caos e confusão se instalam quando eles descobrem que podem não estar sozinhos…</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VINGANÇA EM DOBRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceaf07b08352428b3213d359ee80b0577ef7aacb</link>
