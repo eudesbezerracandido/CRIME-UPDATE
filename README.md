@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TED BUNDY - A IRRESISTIVÉL FACE DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5ca55e58c427369f0c2d92567594e5c177ccc67</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7CvQye9OtsO7XQjnFjyBexNXr1J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinebiografia de Ted Bundy (Zac Efron), serial killer que matou, pelo menos, 30 mulheres em sete estados norte-americanos durante a década de 1970. Só que o filme é contado a partir do ponto de vista de sua namorada, Elizabeth (Lily Collins), que não tnha conhecimento de seus crimes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ÚLTIMA FONTE  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00bc20ea5ae8cd4ff0dd7152b98967410ad2a702</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/q2SPbWtkYdB7k5YZlJ6J4vjr1yO.jpg</thumbnail>
