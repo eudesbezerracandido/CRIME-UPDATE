@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] VINGANÇA DE FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:545662a61285bc1cb1711fcc19cd88601ba83c9f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dpzns6OmRbfwFdw5J9oPZVsPfwc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No 10º aniversário da morte de seu pai, Giovanni relutantemente aceita a tarefa de levar um bolo para a casa de seu tio, um chefe da máfia, para uma festa. Em apenas duas horas da noite, a vida de Gio mudou para sempre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TED BUNDY - A IRRESISTIVÉL FACE DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5ca55e58c427369f0c2d92567594e5c177ccc67</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7CvQye9OtsO7XQjnFjyBexNXr1J.jpg</thumbnail>
