@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DESVIO DE CONDUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f0a1f53dd33d729e6d59f1c447c432d3c17d9cc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1dJuX3YlWxfK54r6GbTaxoEwgGA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um homem desesperado encontra um saco de dinheiro perdido nas margens da Ilha do Príncipe Eduardo, sua decisão de mantê-lo em segredo transforma sua pitoresca vila de pescadores em uma cena de crime crescente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VINGANÇA DE FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:545662a61285bc1cb1711fcc19cd88601ba83c9f</link>
