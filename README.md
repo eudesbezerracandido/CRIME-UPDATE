@@ -1,7 +1,13 @@
 # CRIME-UPDATE
 
 
-
+<item>
+<title>[COLOR silver][B] RÁPIDA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fee0d292648fde87e5855e0b9bb1c71401a19215</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5IgtoHUVB1VXhmygL7ycwXt7Sw1.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois de cumprir 10 anos de prisão, Driver só tem um objetivo: vingar a morte de seu irmão, assassinado em um assalto mal planejado. Mas tem gente disposta a atrapalhar seus planos. Um deles é um policial veterano prestes a se aposentar. O outro, é um matador de aluguel, viciado em adrenalina e bastante egocêntrico. Agora, é uma questão de tempo para saber que sai vivo desse jogo de caça e o caçador.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DESVIO DE CONDUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
