@@ -1,6 +1,15 @@
 # CRIME-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] RISCO DUPLO ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5V67TQFK3X7ZE3F4L77PXNSRGPEL5ZDT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kMQ5f02fUrhdSp4eKlX9e62wGpz.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Após cair em uma armadilha e cumprir pena pelo suposto assassinato de seu marido, Libby decide acabar com ele de uma vez por todas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RÁPIDA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fee0d292648fde87e5855e0b9bb1c71401a19215</link>
