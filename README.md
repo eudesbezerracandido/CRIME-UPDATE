@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] SEGURANÇA MAXÍMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ea739650f879d5b3286e688b82a6fd9894b8453</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/y7Wq8boLNOqlFhGGIhzV2YtZ4ki.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Steve Mackleson é um perigoso criminoso, encarcerado em uma prisão de segurança máxima. Sua jornada de redenção começa quando um jovem de 19 anos se torna o seu novo colega de cela e a filha que ele nunca conheceu resolve procurá-lo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RISCO DUPLO ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5V67TQFK3X7ZE3F4L77PXNSRGPEL5ZDT</link>
