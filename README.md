@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] A MULHER NA PAREDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:293715f8e35972a356c1262af31cf373309bdb9a</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/z6rvcCVKM6ho5u7Dk68qeYh9zlp.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Lorna Brady acorda uma manhã e encontra um cadáver em sua casa. Brady não tem ideia de quem é a mulher morta ou se ela mesma pode ser responsável pelo aparente assassinato, porque ela sofre há muito tempo de crises extremas de sonambulismo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SEGURANÇA MAXÍMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ea739650f879d5b3286e688b82a6fd9894b8453</link>
